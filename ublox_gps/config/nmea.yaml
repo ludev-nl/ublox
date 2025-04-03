@@ -25,3 +25,8 @@ nmea:
   main_talker_id: 1
   gsv_talker_id: 1
   bds_talker_id: [0,0]
+
+uart1:
+  baudrate: 9600
+  in: 16
+  out: 16
